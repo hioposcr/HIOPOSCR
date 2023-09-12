@@ -2,8 +2,8 @@
         <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" alt="MasterHead">
         <h1>Hi 👋, We're HIOPOS Costa Rica</h1>
         <h3>We are a software development company based on electronic invoicing operations.</h3>
-    </div>
-    
+  </div>
+  <div>
     <p align="left"> <img
             src="https://komarev.com/ghpvc/?username=hioposcr&label=Profile%20views&color=0e75b6&style=flat"
             alt="hioposcr" /> </p>
@@ -292,5 +292,7 @@
     <p><img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=hioposcr&show_icons=true&locale=en&layout=compact"
             alt="hioposcr" /></p>
+  </div> 
+   
 
 
