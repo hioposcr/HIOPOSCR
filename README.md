@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   ![MasterHead](https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif)
-</div>
+</p>
 <h1 align="center">Hi 👋, We're HIOPOS Costa Rica</h1>
 <h3 align="center">We are a software development company based on electronic invoicing operations.</h3>
 
