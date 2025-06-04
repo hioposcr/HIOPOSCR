@@ -43,16 +43,6 @@ We combine local regulation knowledge with global technology.
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hioposcr&show_icons=true&theme=default&hide_border=true" alt="hioposcr stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hioposcr&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📬 Contact Us
 
 💌 **Email:** falvarez@hioposcr.com  
