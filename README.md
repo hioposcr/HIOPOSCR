@@ -46,7 +46,7 @@ We combine local regulation knowledge with global technology.
 ### 📬 Contact Us
 
 💌 **Email:** falvarez@hioposcr.com  
-🌍 **Website:** [www.hioposcr.com](http://www.hioposcr.com) *(coming soon)*  
+🌍 **Website:** [www.hiopos.co.cr](https://hiopos.co.cr/)
 📍 **Location:** San José, Costa Rica  
 
 ---
